@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Instagram-Clone](https://github.com/Anshuman1803/Instagram-Clone)
 
-- 🌱 I’m currently learning **Advanced Backend, Next JS**
+- 🌱 I’m currently learning **Advanced Concept of Backend And MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://anshumankumar.netlify.app/](https://anshumankumar.netlify.app/)
 
