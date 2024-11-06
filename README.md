@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahianshuman491@gmail.com, +917061751101**
 
-- 📄 Know about my experiences [[https://anshumankumar.netlify.app/](https://anshumankumar.netlify.app/)]
+- 📄 Know about my experiences [Visit My Portfolio](https://anshumankumar.netlify.app/)
 
 <br/>
 
