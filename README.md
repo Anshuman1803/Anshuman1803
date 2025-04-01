@@ -5,10 +5,6 @@
 <center align= "center"> <img src= "https://www.codewars.com/users/AnshumanMahi7781/badges/large" alt = "codeware" /> </center>
 <br/>
 
-- 🔭 I’m currently working on [Instagram-Clone](https://github.com/Anshuman1803/Instagram-Clone)
-
-- 🌱 I’m currently learning **Advanced Concept of Backend And MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://anshumankumar.netlify.app/](https://anshumankumar.netlify.app/)
 
 - 📫 How to reach me **mahianshuman491@gmail.com, +917061751101**
