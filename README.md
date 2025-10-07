@@ -1,36 +1,78 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm <a href="https://anshumankumar.netlify.app/" target="blank">Anshuman Kumar</a></h1>
-<h3 align="center">A passionate Web developer ||  MERN stack developer from India</h3>
-<br/>
-<center align= "center"> <img src= "https://www.codewars.com/users/AnshumanMahi7781/badges/large" alt = "codeware" /> </center>
-<br/>
+<!-- Improved README for Anshuman Kumar -->
 
-- 👨‍💻 All of my projects are available at [https://anshumankumar.netlify.app/](https://anshumankumar.netlify.app/)
+<h1 align="center">Hey there 👋, I'm <a href="https://anshumankumar.netlify.app/" target="_blank">Anshuman Kumar</a></h1>
+<h3 align="center">💻 MERN Stack Developer | Passionate Web Engineer from India 🇮🇳</h3>
 
-- 📫 How to reach me **mahianshuman491@gmail.com, +917061751101**
+---
 
-- 📄 Know about my experiences [Visit My Portfolio](https://anshumankumar.netlify.app/)
+<p align="center">
+  <a href="https://www.codewars.com/users/AnshumanMahi7781">
+    <img src="https://www.codewars.com/users/AnshumanMahi7781/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
-<br/>
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman1803) 
+### 🚀 About Me  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)<span>&nbsp; &nbsp; &nbsp; &nbsp;</span> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+- 👨‍💻 Explore all my projects on my **[Portfolio Website](https://anshumankumar.netlify.app/)**  
+- 🧠 Currently learning **Next.js** and exploring **Backend Optimization**  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, or UI Development**  
+- 📫 Reach me at **mahianshuman491@gmail.com** | 📞 **+91 7061751101**  
+- 🌱 Open to collaborating on **innovative MERN projects**  
 
-<br/>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anshuman1803&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1803&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/anshuman1803" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahianshuman491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://anshumankumar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<br/>
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anshuman1803&theme=radical&no-frame=false&no-bg=true&margin-w=10)
+### 💻 Tech Stack  
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman1803&theme=react&hide_border=false&show_icons=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1803&layout=compact&theme=react&hide_border=false" height="160px"/>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+⭐ **If you like my work, consider giving my repositories a star!**  
+
+
