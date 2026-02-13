@@ -61,15 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman1803&theme=react&hide_border=false&show_icons=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1803&layout=compact&theme=react&hide_border=false" height="160px"/>
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
