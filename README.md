@@ -1,7 +1,7 @@
 <!-- Improved README for Anshuman Kumar -->
 
 <h1 align="center">Hey there 👋, I'm <a href="https://anshumankumar.netlify.app/" target="_blank">Anshuman Kumar</a></h1>
-<h3 align="center">💻 MERN Stack Developer | Passionate Web Engineer from India 🇮🇳</h3>
+<h3 align="center">💻 MERN Stack Developer || Software Engineer</h3>
 
 ---
 
