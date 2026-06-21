@@ -1,9 +1,5 @@
-<!-- Improved README for Anshuman Kumar -->
-
-<h1 align="center">Hey there 👋, I'm <a href="https://anshumankumar.netlify.app/" target="_blank">Anshuman Kumar</a></h1>
-<h3 align="center">💻 Software Engineer | Full Stack Developer</h3>
-
----
+<h1 align="center">Hi, I'm <a href="https://anshumankumar.netlify.app/" target="_blank">Anshuman Kumar</a></h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.codewars.com/users/AnshumanMahi7781">
@@ -13,21 +9,25 @@
 
 ---
 
-### 🚀 About Me  
+## About Me
 
-I am a **Software Engineer** with experience building enterprise SaaS applications, mobile applications, and backend systems. My expertise lies in full-stack development using JavaScript and TypeScript ecosystems, with hands-on experience in React, React Native, Node.js, NestJS, PostgreSQL, and cloud-based architectures.
+I’m a Software Engineer with hands-on experience building enterprise SaaS products, mobile applications, and scalable backend systems.
 
-Currently working as a **Software Engineer at Algorizz**, where I build production-grade systems involving asynchronous processing pipelines, logistics automation platforms, mobile applications, and wearable solutions. I enjoy designing scalable systems and have a growing interest in LLMs, AI agents, and Agentic AI architectures.
+My core work is around full-stack development using JavaScript and TypeScript, with practical experience in React, React Native, Node.js, NestJS, PostgreSQL, MongoDB, and REST APIs.
 
-- 👨‍💻 Explore all my projects on my **[Portfolio Website](https://anshumankumar.netlify.app/)**  
-- 🧠 Currently transitioning toward **AI Engineering** with a focus on LLM Applications, AI Agents, and RAG Architectures  
-- 💬 Ask me about **React, Node.js, NestJS, PostgreSQL, or System Architecture**  
-- 📫 Reach me at **mahianshuman491@gmail.com** | 📞 **+91 7061751101**  
-- 🌱 Open to collaborating on **innovative full-stack and AI-powered projects**  
+Currently, I’m working at **Algorizz**, where I contribute to production-grade systems across logistics platforms, recruitment products, backend integrations, and wearable mobile applications.
+
+
+- 🌐 Portfolio: [anshumankumar.netlify.app](https://anshumankumar.netlify.app/)
+- 💼 Role: Software Engineer - Full Stack Developer
+- 💬 Ask me about: `React`, `React Native`, `Node.js`, `NestJS`, `PostgreSQL`, `REST APIs`
+- 📫 Email: **mahianshuman491@gmail.com**
+- 📍 Location: **Bihar, India**
 
 ---
 
-### 🌐 Connect with Me  
+## Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/anshuman1803" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,29 +36,30 @@ Currently working as a **Software Engineer at Algorizz**, where I build producti
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://anshumankumar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-### 💼 Professional Experience
+## Professional Experience
 
-## Software Engineer
-### Algorizz | Full-time
+### Software Engineer - Full Stack Developer
+**Algorizz**
 
-Building enterprise-grade solutions across multiple products involving logistics platforms, recruitment automation, and wearable device integrations.
+Working across enterprise products involving logistics workflows, recruitment platforms, backend systems, and mobile applications.
 
-**Key Contributions:**
-- Designed and developed recruitment platforms with intelligent candidate discovery
-- Built voice-enabled assistants integrated with smart glasses and mobile applications
-- Architected enterprise logistics ERP platforms with finance automation workflows
-- Implemented scalable backend systems with queue-based processing and asynchronous workflows
-- Developed mobile applications using React Native with BLE communication for wearable devices
+**Key contributions:**
+- Built and maintained full-stack product features across web and backend systems
+- Integrated external AI APIs into recruitment and workflow-based applications
+- Built mobile application features for wearable and assistant-based products
+- Developed backend APIs and async processing flows using Node.js and NestJS
+- Worked on logistics and finance workflow systems for business operations
+- Contributed to scalable product architecture, database design, and system integrations
 
 ---
 
-### 💻 Tech Stack  
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -73,14 +74,11 @@ Building enterprise-grade solutions across multiple products involving logistics
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSONB-5E5E5E?style=flat&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -89,134 +87,119 @@ Building enterprise-grade solutions across multiple products involving logistics
 
 ---
 
-### 🏆 Featured Projects
+## Featured Projects
 
-#### 🔍 **TalentIQ Discover**
-*Resume Intelligence and Candidate Discovery Platform*
+### Talent Discovery Platform
+Recruitment product with resume workflows, candidate discovery, and backend integrations.
 
-Built a recruitment platform designed to automate resume ingestion, candidate parsing, ranking, and conversational candidate discovery.
+**What I worked on:**
+- Frontend and backend application integration
+- Candidate workflow and product flow implementation
+- Integration of AI APIs provided by a dedicated AI team
+- Real-time and async processing support
 
-**Key Features:**
-- Bulk resume upload system with intelligent parsing
-- Conversational candidate search and ranking
-- Real-time upload tracking using Server-Sent Events
-- Asynchronous processing using pg-boss queues
-- Azure Blob Storage integration for resume storage
-- JSON-based candidate information storage with optimized indexing
-
-**Tech Stack:** React.js · TypeScript · Node.js · Express.js · PostgreSQL · pg-boss · Azure Blob Storage · Server-Sent Events
+**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `SSE`
 
 ---
 
-#### 🕶️ **Wearable Assistant for Smart Glasses**
-*Voice-enabled assistant integrated with smart glasses and mobile applications*
+### Wearable Assistant Mobile App
+Mobile application for a wearable assistant product.
 
-**Features:**
-- Speech-to-text pipeline with text-to-speech responses
-- Intent-based command execution for calling and messaging
-- Meeting management and wake-word activation
-- BLE communication with smart glasses
-- Touch gesture support and device control
-- Photo and video capture capabilities
+**What I worked on:**
+- Built the mobile application
+- Worked on backend support required for app flows
+- Device communication and product integration
+- Voice/calling/messaging related mobile workflows
 
-**Tech Stack:** React Native · TypeScript · Node.js · NestJS · BLE · Twilio
+**Tech:** `React Native` `TypeScript` `Node.js` `NestJS` `BLE` `Twilio`
 
 ---
 
-#### 🚛 **Khanija Carriers Logistics ERP Platform**
-*Enterprise logistics and finance automation platform*
+### Logistics ERP Platform
+Enterprise platform for logistics, reports, approvals, and finance-related workflows.
 
-**Features:**
-- Role-based dashboards for different user types
-- Goods Consignment management and tracking
-- Finance approval workflows and freight calculation
-- Vendor grouping and bulk operations
-- CSV and PDF handling for reports
-- Bank file generation and movement-based pricing logic
+**What I worked on:**
+- Business dashboards and workflow implementation
+- Backend APIs and operations support
+- Approval flow and report handling
+- End-to-end product engineering contributions
 
-**Tech Stack:** React.js · Node.js · NestJS · PostgreSQL
+**Tech:** `React.js` `Node.js` `NestJS` `PostgreSQL`
 
 ---
 
-#### 🤖 **Resume Processing Infrastructure**
-*Scalable backend architecture for resume processing*
+### Resume Processing Backend
+Backend system supporting resume processing and external service integration.
 
-**Features:**
-- Worker-based processing with queue architecture
-- Retry mechanisms and comprehensive error handling
-- External service integration
-- Database optimization with JSONB indexing
-- Connection pooling for high performance
+**What I worked on:**
+- Async workflow design
+- Queue-based processing
+- Database optimization
+- External AI/API integration support
 
-**Tech Stack:** Node.js · PostgreSQL · pg-boss
-
----
-
-#### 🌐 **Social Media Platform**
-*Full-featured social media application*
-
-**Features:**
-- Authentication and user profiles
-- Posts and media uploads
-- Real-time interactions
-
-**Tech Stack:** React.js · Node.js · Express.js · MongoDB
+**Tech:** `Node.js` `PostgreSQL` `pg-boss`
 
 ---
 
-#### 🏠 **Home Automation System**
-*IoT-based smart home automation project*
+### Personal Projects
+A few personal builds from my portfolio:
+- Instagram Clone
+- E-Commerce Store
+- MERN Blog Application
+- Weather Forecast App
+- To-Do Application
+- Box Shadow Generator
+- Fylo Dark Landing Page
+- Clipboard Landing Page
+- Easy Bank Landing Page
+- Bookmark Landing Page
 
-**Features:**
-- Remote control of home appliances
-- Sensor integration and monitoring
-- Embedded systems programming
-
-**Tech Stack:** IoT Components · Sensors · Embedded Systems
+Explore more on my portfolio:
+[anshumankumar.netlify.app](https://anshumankumar.netlify.app/)
 
 ---
 
-### 📚 Education
+## Education
 
 **Master of Computer Applications (MCA)**  
-*Dev Bhoomi Uttarakhand University*
+**Dev Bhoomi Uttarakhand University**
 
 ---
 
-### 🎯 Areas of Interest
+## Areas of Interest
 
 - Full Stack Development
 - Backend Engineering
-- Mobile Development
-- Distributed Systems
-- Enterprise SaaS Platforms
-- Real-Time Systems
-- AI Applications & LLM Integrations
-- Agentic AI & Conversational AI
+- Mobile App Development
+- Enterprise SaaS Products
+- Product Engineering
+- System Integration
+- Scalable APIs and Workflows
 
 ---
 
-### 🧠 Current Learning Focus
+## Current Focus
 
-Transitioning from Full Stack Development toward **AI Engineering** with a focus on:
-
-- LLM Applications & AI Agents
-- Agentic AI Systems & RAG Architectures
-- LangGraph & Multi-Agent Systems
-- Memory Management and Tool Calling
-- Context Engineering
-
----
-
-### 💭 Philosophy
-
-I enjoy building practical software that solves real-world problems. My focus is on writing scalable systems, understanding system architecture, and continuously learning emerging technologies in AI and software engineering.
+Right now, I’m focused on improving further in:
+- React Native
+- Backend architecture
+- NestJS and Node.js systems
+- PostgreSQL and database design
+- Building practical and scalable product workflows
 
 ---
 
-### ✍️ Random Dev Quote
+## Philosophy
+
+I like building practical software that solves real business and user problems.
+My focus is on clean implementation, reliable systems, and continuous improvement as an engineer.
+
+---
+
+## Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!**
+⭐ If you like my work, consider starring my repositories.
