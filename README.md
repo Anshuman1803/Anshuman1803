@@ -147,13 +147,7 @@ A few personal builds from my portfolio:
 - E-Commerce Store
 - MERN Blog Application
 - Weather Forecast App
-- To-Do Application
-- Box Shadow Generator
-- Fylo Dark Landing Page
-- Clipboard Landing Page
-- Easy Bank Landing Page
-- Bookmark Landing Page
-
+  
 Explore more on my portfolio:
 [anshumankumar.netlify.app](https://anshumankumar.netlify.app/)
 
