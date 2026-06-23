@@ -18,7 +18,7 @@ My core work is around full-stack development using JavaScript and TypeScript, w
 Currently, I’m working at **Algorizz**, where I contribute to production-grade systems across logistics platforms, recruitment products, backend integrations, and wearable mobile applications.
 
 
-- 🌐 Portfolio: [anshumankumar.netlify.app](https://anshumankumar.netlify.app/)
+- 🌐 Portfolio: [anshumankumar.vercel.app](https://anshumankumar.vercel.app/)
 - 💼 Role: Software Engineer - Full Stack Developer
 - 💬 Ask me about: `React`, `React Native`, `Node.js`, `NestJS`, `PostgreSQL`, `REST APIs`
 - 📫 Email: **mahianshuman491@gmail.com**
@@ -35,7 +35,7 @@ Currently, I’m working at **Algorizz**, where I contribute to production-grade
   <a href="mailto:mahianshuman491@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://anshumankumar.netlify.app/" target="_blank">
+  <a href="https://anshumankumar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -149,7 +149,7 @@ A few personal builds from my portfolio:
 - Weather Forecast App
   
 Explore more on my portfolio:
-[anshumankumar.netlify.app](https://anshumankumar.netlify.app/)
+[anshumankumar.vercel.app](https://anshumankumar.vercel.app/)
 
 ---
 
