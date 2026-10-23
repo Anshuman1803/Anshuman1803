@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://anshumankumar.netlify.app/" target="_blank">Anshuman Kumar</a></h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer • Full Stack Developer • React • Node.js • React Native</h3>
 
-<p align="center">
-  <a href="https://www.codewars.com/users/AnshumanMahi7781">
-    <img src="https://www.codewars.com/users/AnshumanMahi7781/badges/large" alt="Codewars Badge" />
-  </a>
-</p>
 
 ---
 
